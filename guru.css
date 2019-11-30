@@ -1,0 +1,45 @@
+body {
+background:#CCC;
+color:black;
+font-family:Georgia, serif;
+padding:10px;
+text-align:center;
+}
+
+a {
+color:red;
+text-decoration:none;	
+}
+
+header {
+background:black;
+color:red;
+border:8px red solid;
+margin-bottom:10px;
+padding:8px;
+font-family:monospace;
+text-align:left;
+}
+
+header h1 {
+font-size:24px;	
+}
+
+header h2 {
+margin-left:8em;
+font-size:24px;
+}
+
+.expertise {
+border:8px white solid;
+margin:10px;
+padding:10px 16px 10px 40px;
+text-align:left;
+width:260px;
+font-weight:bold;
+float:left;
+}
+
+.expertise li {
+margin:10px 0;
+}
