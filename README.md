@@ -1,0 +1,2 @@
+# dsguru
+derikstiller dot guru
